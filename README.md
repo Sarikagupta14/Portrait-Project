@@ -13,4 +13,4 @@ There are two two other icons of Greetings and Description.
  In addition to this, 
 ---> Description will give you all details related to portrait.
 
-https://sarika-portrait-project.netlify.app/
+
